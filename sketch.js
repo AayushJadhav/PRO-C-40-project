@@ -46,4 +46,6 @@ function draw() {
     
      game.end();
    }
+  
+   console.log("%chttps://github.com/AayushJadhav/PRO-C-40-project", "color: red");
 }
