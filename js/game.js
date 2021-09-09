@@ -36,7 +36,8 @@ class Game{
         }
     
     play(){
-        
+           console.log("%chttps://github.com/AayushJadhav/PRO-C-40-project", "color: red");
+
                 form.hide();
 
                 Player.getPlayerInfo();
@@ -101,13 +102,7 @@ class Game{
                         
                     }
                   }
-                
-
-         
-         
-        
-         
-
+               
     }
 
     end(){
