@@ -29,7 +29,7 @@ function setup() {
   game = new Game();
   game.getState();
   game.start();
-  
+  console.log("%chttps://github.com/AayushJadhav/PRO-C-40-project", "color: red");
 }
 
 function draw() {
@@ -46,6 +46,4 @@ function draw() {
     
      game.end();
    }
-  
-   console.log("%chttps://github.com/AayushJadhav/PRO-C-40-project", "color: red");
 }
